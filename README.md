@@ -1,6 +1,7 @@
 <h3 align="center">Database Lover and Flutter Devloper</h3>
 <h3 align="center">Database Lover and Flutter Devloper</h3>
 <hr>
+
 # Let's Stay connected <a href="https://twitter.com/danwestephane" target="blank"><img src="https://img.shields.io/twitter/follow/danwestephane?logo=twitter&style=for-the-badge" alt="danwestephane" /></a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danwestephane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danwestephane) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@danwestephane) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15155605) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/danwe_stephane) 
